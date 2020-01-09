@@ -1,3 +1,12 @@
+/**
+Kod znajduje się pod adresem https://github.com/piotrpasich/algorytmy/tree/master/gauss
+
+Metoda Gaussa-Crouta
+Mając do dyspozycji algorytm z wykładu obliczania niewiadomych metodą Gaussa-Crouta napisz samodzielnie na jego podstawie kod programu w języku Basic, Pascal, C++ lub Java (do wyboru). Nie wolno korzystać z żadneych gotowych bibliotek numerycznych.
+
+Przetestuj jego działanie, a następnie załaduj kod na platformę.
+**/
+
 #include <iostream>
 #include <iomanip>
 #include <cmath>
