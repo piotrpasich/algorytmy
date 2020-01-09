@@ -1,6 +1,8 @@
 /**
 Piotr Pasich
 
+Rozwiazanie dostepne pod linkiem: https://github.com/piotrpasich/algorytmy/blob/master/kolejka_i_stos/queue_and_stack.cpp
+
 Imlementacja kolejki i stosu
 Napisz program implementujący przy pomocy listy jednokierunkowej  kolejkę oraz stos.
 
