@@ -1,5 +1,5 @@
 /**
-
+Rozwiazanie dostepne takze pod adresem: https://github.com/piotrpasich/algorytmy/blob/master/kolejka_i_stos_sortowanie/sort_quque_and_stack.cpp
 FIFO QUEUE: 
 
 Input queue: 
