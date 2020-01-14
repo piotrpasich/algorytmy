@@ -1,0 +1,22 @@
+**a. Algorytm naiwny wyszukiwania wzorca w łańcuchu tekstowym (9)
+b. Wyszukiwanie maksymalnego prefikso-sufiksu
+c. Szybkie wyszukiwanie wzorca algorytmem Morrisa-Pratta
+d. Szybkie wyszukiwanie wzorca algorytmem Knutha-Morrisa-Pratta
+e. Szybkie wyszukiwanie wzorca uproszczonym algorytmem Boyera-Moore'a**
+**f. Szybkie wyszukiwanie wzorca pełnym algorytmem Boyera-Moore'a
+g. Wyszukiwanie wzorca algorytmem Karpa-Rabina
+**h. Zliczanie słów w łańcuchu (10)
+**i. Dzielenie łańcucha na słowa
+j. Wyszukiwanie najdłuższego słowa w łańcuchu
+**k. Wyszukiwanie palindromów
+l. Szyfr Cezara
+m. Szyfrowanie z pseudolosowym odstępem
+**n. Szyfry przestawieniowe
+o. Szyfr Enigmy
+p. Szyfrowanie RSA
+q. Dodawanie dużych liczb
+r. Mnożenie dużych liczb
+s. Potęgowanie dużych liczb
+t. Haszowanie
+
+** o. Naiwny algorytm sprawdzania pierwszości liczby naturalnej (11)
